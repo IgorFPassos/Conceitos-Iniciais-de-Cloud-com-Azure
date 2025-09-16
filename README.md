@@ -60,7 +60,7 @@ A principio apenas segui o passo a passo de como criar a maquina virtual e fiz o
 
 <img width="1911" height="986" alt="part 1" src="https://github.com/user-attachments/assets/8175a120-8f46-4ade-8ef4-1931b74678fb" />
 
-<img width="1912" height="989" alt="parte 2" src="https://github.com/user-attachments/assets/d31e58fc-dbf8-43de-942a-606db5e50c81" />
+<img width="1912" height="989" alt="parte 2" src="https://github.com/user-attachments/assets/e42f4ad3-49a4-40c6-805d-19b44823125f" />
 
 <img width="1915" height="987" alt="parte 3" src="https://github.com/user-attachments/assets/5650dd94-58e2-47de-8e19-d90545107946" />
 
