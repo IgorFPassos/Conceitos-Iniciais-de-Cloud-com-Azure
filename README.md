@@ -46,3 +46,26 @@ Um dos principais benefícios da computação em nuvem são as opções de capac
 Escalar automaticamente a implantação de recursos com base na necessidade.
 Implementar recursos com vase em um modelo pré-configuração, removendo a necessidade de configuração manual.
 Conseguir fazer as implementações de um pedido pelo portal ou através de APIs e PowerShell.
+
+- Laboratório
+
+Criação de maquina virtual, que no caso é bem simples, pois o layout da plataforma é bem amigável.
+
+Qualquer dúvida sobre quais quer informações dentro do site, é possível ler a breve explicação que tem e indo na opção de "saiba mais" somos direcionados para o docs que melhora o entendimento lendo as informações.
+
+A principio apenas segui o passo a passo de como criar a maquina virtual e fiz o acesso no ambiente para verificar se estava tudo certo, consegui acessar e fiz conforme o documento pedia para fazer o primeiro acesso e utilizar o ambiente.
+
+
+<img width="1653" height="365" alt="SLA - Tabela" src="https://github.com/user-attachments/assets/6e38fa48-6678-489e-bdba-52a0c7609112" />
+
+<img width="1911" height="986" alt="part 1" src="https://github.com/user-attachments/assets/8175a120-8f46-4ade-8ef4-1931b74678fb" />
+
+<img width="1912" height="989" alt="parte 2" src="https://github.com/user-attachments/assets/d31e58fc-dbf8-43de-942a-606db5e50c81" />
+
+<img width="1915" height="987" alt="parte 3" src="https://github.com/user-attachments/assets/5650dd94-58e2-47de-8e19-d90545107946" />
+
+<img width="1915" height="997" alt="part 4" src="https://github.com/user-attachments/assets/850ef7d1-0897-45f7-996d-295b2f3d4c29" />
+
+<img width="1914" height="987" alt="part 5" src="https://github.com/user-attachments/assets/dda10c33-51c2-40b5-aad6-3a76a04f122e" />
+
+<img width="1918" height="1077" alt="VM" src="https://github.com/user-attachments/assets/2cda50f2-654c-4092-8b7f-4d7ce89f6baa" />
